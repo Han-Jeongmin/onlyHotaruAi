@@ -1,0 +1,8 @@
+tool_config.json
+__pycache__/
+gas/blas_rest/__pycache__
+download
+gas/trace.log
+setting_history/
+gas/python-3.6.8-embed-amd64/**
+gas/test.py
