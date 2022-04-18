@@ -1,4 +1,4 @@
-# general_gasv2
+# 蛍単独設置AI Client
 
 You can download zip file of gas meter AI client program from the link below
-https://drive.google.com/drive/folders/1Qv_P3Xp8pV-L3w-cRVWwW9ulbQdBTaEx?usp=sharing
+https://drive.google.com/file/d/1oOQ3oK92HoNVFhWCvQzPAbYfxMCJqbRQ/view?usp=sharing
